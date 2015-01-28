@@ -1,0 +1,54 @@
+/*
+Site Name: EMS Agenda
+Author: Joshua Vining
+Year: 2015
+URL: http://jvining.github.io/EMS-Agenda/
+*/
+
+html{text-rendering:optimizeLegibility;}
+body{background:#fbfbfb; font-family: 'Open Sans', 'Helvetica Neue', 'Helvetica', 'Arial', 'sans-serif';  }
+h1,h2,h3,h4,h5{color:#565656; font-weight:300;}
+[class*="col-"] p{color:#5f5f55;}
+.voffset {margin-top: 2px;} 
+.voffset1 {margin-top: 5px;} 
+.voffset2 {margin-top: 10px;} 
+.voffset3 {margin-top: 15px;} 
+.voffset4 {margin-top: 30px;} 
+.voffset5 {margin-top: 40px;} 
+.voffset6 {margin-top: 60px;} 
+.voffset7 {margin-top: 80px;}
+.voffset8 {margin-top: 100px;} 
+.voffset9 {margin-top: 150px;} 
+
+/* Actuall Custom CSS */
+#wrapper{padding-bottom:20px;}
+#AgendaDay .panel {margin-top:5px; }
+#AgendaDay .panel-heading{padding: 15px;}
+#AgendaDay .panel-collapse {background:#fff ;}
+
+/* Agenda Over Style */
+
+/*   		
+.single-track .panel-default{border:1px DarkRed  solid;}
+.single-track .panel-title{color:#fff;}
+.single-track .panel-default>.panel-heading {background:DarkRed ;}
+
+.double-track .panel-default{border:1px green solid	;}
+.double-track .panel-title{color:#fff;}
+.double-track .panel-default>.panel-heading {background:green;}
+.double-track div:nth-child(2) .panel-default {border:1px #003300 solid!important;}
+.double-track div:nth-child(2) .panel-default>.panel-heading {border:1px #003300 solid!important; background:#003300!important;}
+.triple-track .panel-default{border:1px blue solid;}
+.triple-track .panel-title{color:#fff;}
+.triple-track .panel-default>.panel-heading {background:blue;}
+.triple-track div:nth-child(3) .panel-default {border:1px #000099 solid;}
+.triple-track div:nth-child(3) .panel-default>.panel-heading {border:1px #000099 solid!important; background:#000099!important;}
+
+.quad-track .panel-default{border:1px orange solid;}
+.quad-track .panel-title{color:#fff;}
+.quad-track .panel-default>.panel-heading {background:orange;}
+.quad-track div:nth-child(2) .panel-default {border:1px #CC9900 solid;}
+.quad-track div:nth-child(2) .panel-default>.panel-heading {border:1px #CC9900 solid; background:#CC9900;}
+.quad-track div:nth-child(4) .panel-default {border:1px #996633 solid;}
+.quad-track div:nth-child(4) .panel-default>.panel-heading {border:1px #996633 solid; background:#996633;}
+*/   	
